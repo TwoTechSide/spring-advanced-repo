@@ -40,3 +40,4 @@ out/
 *.properties
 
 application-dev.yml
+application-test.yml
